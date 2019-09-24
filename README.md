@@ -26,10 +26,10 @@ ________________________________________________________________________________
 * Denisse Manzanilla Reyna (2019-2020) (Co-Captain)
 
 ## Members:
-* Kaleb Vicary-Rzab (2018-2019)
-* Francis Paul Amadeo (2018-2019)
+* Kaleb Vicary-Rzab (2018-2019) (2019 Co-captain)
+* Francis Paul Amadeo (2018-2019) (2019 Software Lead)
 * Tomoki Kamitani (2018 Captain)
-* Tak's Joseph Refugio (2018)
+* Tak's Joseph Refugio (2018 Electrical Co-Captain)
 * Marc Duremdes (2018)
 * Savim Acharya (2018)
 * Jarod Partlo (2018) 
