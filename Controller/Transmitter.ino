@@ -30,7 +30,7 @@ void setup() {
   radio.openWritingPipe(address);  //Begin writing radio
   radio.setAutoAck(false);
   radio.setDataRate(RF24_250KBPS);
-  radio.setPALevel(RF24_PA_MIN);  //Set power level
+  radio.setPALevel(RF24_PA_HIGH);  //Set power level
   radio.stopListening();  //Stop listening for channel (Master)
   
   data.j1PotY = 127; //Set to middle
