@@ -39,7 +39,7 @@ void setup() {
   radio.openReadingPipe(0, address);  //Begin reading radio
   radio.setAutoAck(false);
   radio.setDataRate(RF24_250KBPS);
-  radio.setPALevel(RF24_PA_MIN);  //Set power level
+  radio.setPALevel(RF24_PA_HIGH);  //Set power level
   radio.startListening();  //Start listening for channel (Slave)
   resetData(); //Reset data on setup()
 }
